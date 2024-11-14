@@ -1,3 +1,9 @@
+::view-transition-old(root), ::view-transition-new(root) {
+    animation-duration: 4s;
+}
+
+ 
+
 :root {
     --background-surface: #EFEFEF;
     --primaryColor: #43281C;
